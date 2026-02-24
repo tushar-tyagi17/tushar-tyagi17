@@ -1,70 +1,77 @@
-<h1 align="center">Hi 👋, I'm Tushar Tyagi</h1>
+<!-- ===== PREMIUM BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tushar%20Tyagi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN)%20|%20Google%20Analytics%20Certified&descAlignY=55&descSize=16" />
+</p>
 
-<h3 align="center">
-Full Stack Developer (MERN) | Google Analytics Certified | React.js | Node.js | Express.js | MongoDB | REST APIs | JavaScript | Git
-</h3>
+---
+
+<h2 align="center">🚀 Full Stack Developer (MERN)</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN);Google+Analytics+Certified;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+UI+%7C+High+Performance" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=22&center=true&vCenter=true&width=750&lines=React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;REST+API+Development;Scalable+Backend+Architecture;Clean+Code+%7C+Modern+UI+%7C+Performance+Focused" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 MERN Stack Developer passionate about scalable web applications  
-- 📊 Google Analytics Certified  
-- 🔗 Strong knowledge of REST APIs & backend architecture  
-- 🧠 Continuously improving DSA & system design skills  
-- 📫 Reach me at: **tushartyagi.dev@gmail.com**
+I’m a performance-focused **MERN Stack Developer** passionate about building scalable web applications and clean backend systems.
 
----
+- 🔹 Google Analytics Certified  
+- 🔹 Strong understanding of REST APIs  
+- 🔹 Backend architecture & database optimization  
+- 🔹 Writing clean, maintainable production-level code  
+- 🔹 Continuously improving DSA & system design  
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/tushar-tyagi-0a2bb227b/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="mailto:tushartyagi.dev@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
+📩 **Email:** tushartyagi.dev@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/tushar-tyagi-0a2bb227b/
 
 ---
 
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🛠 Core Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tushar-tyagi17&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-tyagi17&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,git,github" />
 </p>
 
 ---
 
-## 🏆 Top Languages
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-tyagi17&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tushar-tyagi17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-tyagi17&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
-## 📈 Profile Views
+## 🏆 Top Technologies Used
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=tushar-tyagi17&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-tyagi17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-### ⚡ Professional Statement
-> Building scalable backend systems and high-performance frontend applications using the MERN stack.
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-tyagi17&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Professional Focus
+
+> Building scalable MERN applications with production-ready backend architecture and performance-optimized frontend systems.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tushar-tyagi17&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<!-- ===== PREMIUM FOOTER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>
