@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tushar Tyagi</h1>
 
-<!--
-**tushar-tyagi17/tushar-tyagi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer (MERN) | Google Analytics Certified | React.js | Node.js | Express.js | MongoDB | REST APIs | JavaScript | Git
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+(MERN);Google+Analytics+Certified;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+UI+%7C+High+Performance" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 MERN Stack Developer passionate about scalable web applications  
+- 📊 Google Analytics Certified  
+- 🔗 Strong knowledge of REST APIs & backend architecture  
+- 🧠 Continuously improving DSA & system design skills  
+- 📫 Reach me at: **tushartyagi.dev@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/tushar-tyagi-0a2bb227b/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:tushartyagi.dev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tushar-tyagi17&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-tyagi17&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-tyagi17&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=tushar-tyagi17&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### ⚡ Professional Statement
+> Building scalable backend systems and high-performance frontend applications using the MERN stack.
